@@ -1,0 +1,54 @@
+{
+	"LK":{
+		"date":{
+			"2020-06-02":{
+				"open":"XXXX",
+				"previousClose":"XXXX",
+
+				"comments":{
+					"23:10":{
+						"09:22":{
+							"text":"LK Love this one",
+							"sentiment":"1"
+						}
+					}
+				},
+
+				"sentiment":{
+					"23:10":"10"
+				},
+				"trendingScore":{
+					"23:10":"10"
+				},
+				"trending":{
+					"23:10":"10"
+				},
+				"volume":{
+					"23:10":"10"
+				},
+				"volumeChange":{
+					"23:10":"10"
+				},
+				"watchlistCount":{
+					"23:10":"10"
+				},
+				"low":{
+					"23:10":"10"
+				},
+				"high":{
+					"23:10":"10"
+				},
+				"price":{
+					"23:10":"10"
+				},
+				"change":{
+					"23:10":"10"
+				},
+				"percentChange":{
+					"23:10":"10"
+				}
+			}
+		}
+	}
+}
+

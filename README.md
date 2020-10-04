@@ -1,0 +1,2 @@
+# Exodia
+Stock trading algorithm.

@@ -1,2 +1,2 @@
 # Exodia
-Stock trading algorithm.
+Stock trading algorithm in progress.
